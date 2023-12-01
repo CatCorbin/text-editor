@@ -8,7 +8,7 @@
 
 <ul>
 <li> <a href = "https://github.com/CatCorbin/text-editor">GitHub Repository</a> </li>
-<li> <a href = "">Deployed Link</a> </li>
+<li> <a href = "https://catcorbin-texteditor-867b7fb72515.herokuapp.com/">Deployed Link</a> </li>
 </ul>
 
 ## Description
