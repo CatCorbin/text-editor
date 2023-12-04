@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br>
-![](.png)
+![](te.png)
 
 ## Links
 
@@ -26,7 +26,7 @@ This application is a text editor that allows you to use it with or without inte
 
 ## Installation
 
-No installation required.
+Installation is optional.
 
 ## Usage
 
